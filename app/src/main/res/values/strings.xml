@@ -1,0 +1,14 @@
+<resources>
+    <string name="default_web_client_id" translatable="false">577265901240-5vq8o9a5iakfo4138h7nu5uofanh4f8a.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">577265901240</string>
+    <string name="google_api_key" translatable="false">AIzaSyDytPJSSq1DTq7vUub-WFD4nPAwXpMOL6A</string>
+    <string name="google_app_id" translatable="false">1:577265901240:android:e0f43941701b557b7c1e4d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDytPJSSq1DTq7vUub-WFD4nPAwXpMOL6A</string>
+    <string name="google_storage_bucket" translatable="false">amtsg3-f19b3.appspot.com</string>
+    <string name="project_id" translatable="false">amtsg3-f19b3</string>
+    <string name="facebook_app_id">259469680105983</string>
+    <string name="facebook_login_protocol_scheme">fbTU_ID_DE_APP_DE_FACEBOOK</string>
+    <string name="facebook_login_button_text">Facebook login</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">EAAIbV6EjXqwBAA5VSRw4UBaQX3PxjaTWAtvVZB9bVQ0NGPKAZBKTM2G8KbIlQwyGYi6u7UeoQoZCVqKr8xU4xUxCSvzYzv3uNrYUaPmVGqybzdom7L6Y4ZAS5eoxP8IRykScklQjLYd0yZBGZBIEpQVZAoWoSeZAB5ZAqyPcSfM51C8Gn2Sd1FUNMDx53CBsXYyrLSMMw0DdC1UERWZB4wH6wMwjayZAsYjAqTcZA5daq3DaxwfwGVbP8SAq</string>
+</resources>

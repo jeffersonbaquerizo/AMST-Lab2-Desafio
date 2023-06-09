@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "814412969424",
+    "project_id": "amst-laba-firebase-desafio",
+    "storage_bucket": "amst-laba-firebase-desafio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814412969424:android:e225f4fa6223537afa35d5",
+        "android_client_info": {
+          "package_name": "com.app.amstfirebaseappdesafio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814412969424-rs104petjo47h1bjuo9k4uo1ssta85si.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.amstfirebaseappdesafio",
+            "certificate_hash": "b1bcdad7755aa06c34ed1d494f5b4f386676a3f2"
+          }
+        },
+        {
+          "client_id": "814412969424-rqo3g3rkt40bopd1mpcqlailtqq7ohi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8K7Zgu4ziTWOa_Tbr4uB0Aw1UmZGCJ_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814412969424-rqo3g3rkt40bopd1mpcqlailtqq7ohi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

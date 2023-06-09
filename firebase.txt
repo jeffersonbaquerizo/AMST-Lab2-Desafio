@@ -1,0 +1,2 @@
+SHA1: B1:BC:DA:D7:75:5A:A0:6C:34:ED:1D:49:4F:5B:4F:38:66:76:A3:F2
+applicationId "com.app.amstfirebaseappdesafio"
